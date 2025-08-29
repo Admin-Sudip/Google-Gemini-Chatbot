@@ -26,7 +26,3 @@ This project demonstrates how to integrate **Google Gemini API** with Python to 
 
 ## 🔹 Installation & Setup
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/Admin-Sudip/google-gemini-chatbot.git
-   cd google-gemini-chatbot
